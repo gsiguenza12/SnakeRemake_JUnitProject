@@ -657,10 +657,10 @@ public class SnakeGame extends JFrame {
 	/**
 	 * Entry point of the program.
 	 * @param args Unused.
-	 */
+	 *//*
 	public static void main(String[] args) {
 		SnakeGame snake = new SnakeGame();
 		snake.startGame();
-	}
+	}*/
 
 }
